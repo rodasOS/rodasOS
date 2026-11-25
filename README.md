@@ -1,93 +1,92 @@
-<h1 align="center">👋 ¡Hola! Soy Mario Sales</h1>
-<h3 align="center">Desarrollador de Software | Escuintla, Guatemala 🇬🇹</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rodasos&label=Visitas&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Mario%20Sales&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=TypeScript%20%7C%20Angular%20%7C%20Rust&descAlignY=58" alt="Mario Sales" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desarrollador+TypeScript+%26+Angular;Rustacean+en+formaci%C3%B3n;Entiendo+lo+que+pasa+debajo+del+c%C3%B3digo" alt="Typing SVG" />
 
-### 👨‍💻 Sobre mí
+<br/>
 
-Soy un desarrollador apasionado por el ecosistema **TypeScript/JavaScript** y el desarrollo full-stack. Disfruto creando aplicaciones web y móviles con tecnologías modernas, y siempre estoy explorando algo nuevo.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rodasos-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodasos/)
+[![X](https://img.shields.io/badge/X-@rodasos__-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/rodasos_)
+[![Correo](https://img.shields.io/badge/Correo-contacto-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:marioorlandosalesrodas@gmail.com)
+![Ubicación](https://img.shields.io/badge/Escuintla-Guatemala%20🇬🇹-58a6ff?style=flat-square)
+![Visitas](https://komarev.com/ghpvc/?username=rodasOS&label=Visitas&color=58a6ff&style=flat-square)
 
-- 🔭 Actualmente explorando **Kotlin Multiplatform** y **Rust**
-- 🌱 Aprendiendo más sobre **arquitectura de computadoras**
-- 🎸 Guitarrista, cubo Rubik y amante de los acertijos
-- 📫 **marioorlandosalesrodas@gmail.com**
+</div>
 
----
+<br/>
 
-### 🛠️ Stack Tecnológico
+## 👋 Sobre mí
 
-#### ⚛️ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Soy desarrollador de software y estudiante de Ingeniería en Sistemas. Trabajo sobre todo con **TypeScript**: frontend en Angular, Ionic y React, y backend en NestJS y .NET.
+Me importa entender qué pasa debajo del código: runtimes, intérpretes y el rendimiento de las herramientas que uso a diario. Pruebo las cosas yo mismo y prefiero los datos medidos a las suposiciones.
 
-#### 🖥️ Backend
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+|  |  |
+| :-- | :-- |
+| 💼 **En el trabajo** | Frontend: migro vistas legadas a Angular, mantengo una librería de componentes y construyo apps móviles con Ionic y paneles en React, con backends .NET y tiempo real. |
+| 🧪 **Por mi cuenta** | Apps móviles y web, herramientas para Linux y mods para Claude Code. |
+| 🎓 **Con grupos de estudio** | Proyectos en **Java** (aplicaciones de escritorio con capas y base de datos) y **C++** (gráficos 3D y estructuras de datos). |
+| 🌱 **Aprendiendo** | Rust, internals de JS/TS (V8, GC, event loop) y arquitectura de computadoras. |
 
-#### 📱 Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+<br/>
 
-#### 🛠️ Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+## 🚀 Proyectos destacados
 
----
+<div align="center">
 
-### 📊 Estadísticas de GitHub
+<a href="https://github.com/rodasOS/mer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rodasOS&repo=mer&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="mer" /></a>
+<a href="https://github.com/rodasOS/better-claude"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rodasOS&repo=better-claude&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="better-claude" /></a>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodasos&show_icons=true&locale=es&theme=react&bg_color=0d1117&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodasos&locale=es&layout=compact&theme=react&bg_color=0d1117&hide_border=true" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodasos&theme=react&background=0d1117&hide_border=true" />
-</p>
+| Proyecto | Qué es | Stack |
+| :-- | :-- | :-- |
+| 🖥️ **[mer](https://github.com/rodasOS/mer)** | Emulador de terminal para Linux pensado para agentes de programación. Arranca en ~300 ms, no consume CPU en reposo y hiberna espacios de trabajo. | `Rust` `GPUI` `wgpu` `Wayland` |
+| 💸 **Kuentas** · [web](https://kuentas.vercel.app/) | Gastos personales y grupales con liquidaciones y modo offline-first. App móvil y API con auth JWT, sincronización y CI. *Repos privados.* | `React Native` `Expo` `NestJS` `PostgreSQL` |
+| 🧩 **[better-claude](https://github.com/rodasOS/better-claude)** | Fork con plugins y mods para Claude Code: medidores de contexto y tokens, vista previa de imágenes y más. | `TypeScript` |
+| 📐 **[Tangente](https://github.com/rodasOS/proyecto_precalculo)** | Asistente de cálculo con motor en Web Worker y 66 pruebas contrastadas con SymPy. | `Angular` `Vitest` |
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodasos&theme=react-dark&bg_color=0d1117&hide_border=true" />
-</p>
+<br/>
 
----
+## 🛠️ Stack
 
-### ⭐ Proyecto Destacado
+<div align="center">
 
-[![Kuentas](https://github-readme-stats.vercel.app/api/pin/?username=rodasos&repo=Kuentas&theme=react&bg_color=0d1117&hide_border=true)](https://github.com/rodasos/Kuentas)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,angular,react,nextjs,astro,nestjs,rust,cs,cpp,java,php,python,tailwind,postgres,docker,git,linux,figma&theme=dark" />
+  <img alt="Stack" src="https://skillicons.dev/icons?i=ts,angular,react,nextjs,astro,nestjs,rust,cs,cpp,java,php,python,tailwind,postgres,docker,git,linux,figma&theme=light" />
+</picture>
 
-**Kuentas** — App de gestión de gastos personales y en equipo. Controla tus finanzas de forma sencilla y colaborativa.
+</div>
 
-🔗 [kuentas.vercel.app](https://kuentas.vercel.app/)
+<br/>
 
----
+## 📊 Actividad
 
-### 🤝 Conecta conmigo
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/rodasos/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/rodasos_" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rodasOS&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img alt="Estadísticas" src="https://github-readme-stats.vercel.app/api?username=rodasOS&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rodasOS&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img alt="Lenguajes" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodasOS&layout=compact&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f" />
+</picture>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rodasOS&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <img alt="Racha" src="https://streak-stats.demolab.com?user=rodasOS&hide_border=true&background=ffffff&ring=0969da&fire=0969da&currStreakLabel=0969da" />
+</picture>
 
-*🇬🇹 Hecho en Guatemala · Gracias por visitar mi perfil*
+</div>
+
+<br/>
+
+<div align="center">
+
+🎸 Guitarrista · 🧊 Cubo Rubik · 🧩 Amante de los acertijos
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=footer" alt="" />
+
+</div>

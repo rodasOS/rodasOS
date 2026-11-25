@@ -53,7 +53,7 @@ Me importa entender qué pasa debajo del código: runtimes, intérpretes y el re
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,angular,react,nextjs,astro,nestjs,rust,cs,cpp,java,php,python,tailwind,postgres,docker,git,linux,figma&theme=dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cangular%2Creact%2Cnextjs%2Castro%2Cnestjs%2Crust%2Ccs%2Ccpp%2Cjava%2Cphp%2Cpython%2Ctailwind%2Cpostgres%2Cdocker%2Cgit%2Clinux%2Cfigma&theme=dark" />
   <img alt="Stack" src="https://skillicons.dev/icons?i=ts,angular,react,nextjs,astro,nestjs,rust,cs,cpp,java,php,python,tailwind,postgres,docker,git,linux,figma&theme=light" />
 </picture>
 
